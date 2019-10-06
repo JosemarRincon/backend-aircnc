@@ -7,7 +7,7 @@ const path = require('path');
 const socketio = require('socket.io')
 const http = require('http');
 
-console.log(process.env.MONGO_URL);
+console.log(process.env.NODE_ENV);
 if (process.env.NODE_ENV !== 'production') {
   require('dotenv').config();
 }
