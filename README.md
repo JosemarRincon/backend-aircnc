@@ -1,2 +1,2 @@
 # backend-aircnc
-Projeto da semana OmniStrack-9 do @diego3g
+Projeto da semana OmniStack-9 do @diego3g
